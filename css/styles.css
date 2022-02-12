@@ -1,0 +1,36 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  margin-top:40px;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.head
+{
+  margin-top:40px;
+  font-size:2rem;
+}
+
+.testimonial-image {
+  width: 50%;
+  border-radius: 10%;
+  margin: 100px;
+}
